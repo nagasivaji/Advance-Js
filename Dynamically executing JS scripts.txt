@@ -1,0 +1,3 @@
+https://www.educative.io/answers/how-to-dynamically-load-a-js-file-in-javascript
+https://stackoverflow.com/questions/5235321/how-do-i-load-a-javascript-file-dynamically
+https://www.codeproject.com/Articles/5310336/Dynamically-Loading-a-JavaScript-File
